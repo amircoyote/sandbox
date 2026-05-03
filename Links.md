@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 23:21 IR
+- 🗜️ [Wurst-Client-v7.53-MC1.21.8.jar.zip](https://github.com/amircoyote/sandbox/raw/main/dl/Wurst-Client-v7.53-MC1.21.8.jar.zip) `1.6MB`
+
+- 🗜️ [Wurst-Client-v7.53-MC1.21.8.jar.zip](https://github.com/amircoyote/sandbox/raw/main/dl/Wurst-Client-v7.53-MC1.21.8.jar.zip) `1.6MB`
+
+---
+
+
 ### 📅 2026-05-03 19:43 IR
 - 🗜️ [•⚡ بدون VPN؟! با نت ملی وارد یوتیوب و تلگرام شو.mp4.zip](https://github.com/amircoyote/sandbox/raw/main/dl/%E2%80%A2%E2%9A%A1%20%D8%A8%D8%AF%D9%88%D9%86%20VPN%D8%9F%21%20%D8%A8%D8%A7%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%D9%88%D8%A7%D8%B1%D8%AF%20%DB%8C%D9%88%D8%AA%DB%8C%D9%88%D8%A8%20%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%B4%D9%88.mp4.zip) `11.5MB`
 
