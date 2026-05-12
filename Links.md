@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 12:08 IR
+- 📥 [mhr-cfw-go-windows-amd64.exe](https://github.com/amircoyote/sandbox/raw/main/dl/mhr-cfw-go-windows-amd64.exe) `6.6MB`
+
+---
+
+
 ### 📅 2026-05-07 21:08 IR
 - 🗜️ [mhrv-rs-android-arm64-v8a-v1.9.16.apk.zip](https://github.com/amircoyote/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.16.apk.zip) `13.6MB`
 
